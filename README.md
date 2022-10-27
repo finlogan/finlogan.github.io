@@ -1,2 +1,2 @@
-# finlogan.github.io
+# loganfin.github.io
 HTML experiment
